@@ -59,9 +59,9 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankachavda27&show_icons=true&theme=tokyonight)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankachavda27&layout=compact&theme=tokyonight)
+![Top Languages](./profile/top-langs.svg)
 
 ## 👀 Profile Visitors
 
